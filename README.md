@@ -34,14 +34,14 @@ _(are also my goals for 2022)_
 
 </br>
 <p align="left">
-  <a href="https://hampoelz.net/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Capacitor-NodeJS" alt="hampoelz/Capacitor-NodeJS"></a>
+  <a href="https://github.com/hampoelz/Capacitor-NodeJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Capacitor-NodeJS" alt="hampoelz/Capacitor-NodeJS"></a>
   &nbsp;&nbsp;
-  <a href="https://hampoelz.net/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=PWA-Wrapper" alt="hampoelz/PWA-Wrapper"></a>
+  <a href="https://github.com/hampoelz/PWA-Wrapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=PWA-Wrapper" alt="hampoelz/PWA-Wrapper"></a>
 </p>
 <p align="left">
-  <a href="https://hampoelz.net/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Digi4School2Pdf" alt="hampoelz/Digi4School2Pdf"></a>
+  <a href="https://github.com/hampoelz/Digi4School2Pdf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Digi4School2Pdf" alt="hampoelz/Digi4School2Pdf"></a>
   &nbsp;&nbsp;
-  <a href="https://hampoelz.net/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Musicadio" alt="hampoelz/Musicadio"></a>
+  <a href="https://github.com/hampoelz/Musicadio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Musicadio" alt="hampoelz/Musicadio"></a>
 </p>
 
 ---
