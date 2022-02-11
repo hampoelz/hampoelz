@@ -27,7 +27,7 @@ _➡️ If you have any question/feedback, please do not hesitate to reach out t
 ## 🔭 I'm currently working on
 _(are also my goals for 2022)_
 - [ ] My new portfolio Website
-- [x] [Digi4School](https://digi4school.at/) eBook downloader
+- [x] ~[Digi4School](https://digi4school.at/) eBook downloader~ _(DISCONTINUED - See Readme)_
 - [ ] NodeJS Backend integration for [CapacitorJS](https://capacitorjs.com/)
 - [ ] Universal WebApp _(PWA)_ Wrapper
 - [ ] Modern Web music player
