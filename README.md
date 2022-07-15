@@ -52,7 +52,6 @@ _(are also my goals for 2022)_
 - ⚙️ Some C / C++ Skills
 - 🐍 Python
 - 💾 Databases
-- 📃 LaTeX
 
 ## 💼 Technical Skills
 
