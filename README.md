@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://hampoelz.net/" target="_blank" rel="noreferrer">R
 I'm a Student 🎒, Developer 💻, Engineer ⚙️, and Designer 🎨!
 </h2> 
 
-A `18 year old teenager` who uses his power to study electrical engineering at the Technical college Weiz - [@htlweiz](https://github.com/htlweiz). Away from school, friends and party I'm an Austrian based hobby **programmer & designer** with heart and soul since I'm 12 years old. Let's start `CREATING` some `NEW` and awesome open source things.
+A `19 year old teenager` who uses his power to study electrical engineering at the Technical college Weiz - [@htlweiz](https://github.com/htlweiz). Away from school, friends and party I'm an Austrian based hobby **programmer & designer** with heart and soul since I'm 10 years old. Let's start `CREATING` some `NEW` and awesome open source things.
 
 ### 🤝 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hampoelz)
@@ -27,16 +27,19 @@ _➡️ If you have any question/feedback, please do not hesitate to reach out t
 ## 🔭 I'm currently working on
 _(are also my goals for 2022)_
 - [ ] My new portfolio Website
+- [ ] My diploma thesis
+  - [ ] NodeJS Backend integration for [CapacitorJS](https://capacitorjs.com/)
+  - [ ] BrowserView integration for [CapacitorJS](https://capacitorjs.com/)
+  - [ ] Universal WebApp _(PWA)_ Wrapper
+- [ ] The telemetry and visualization part for the [@htlweiz](https://github.com/htlweiz) [EMILY Cart](https://emily.htlweiz.at/)
 - [x] ~[Digi4School](https://digi4school.at/) eBook downloader~ _(DISCONTINUED - See Readme)_
-- [ ] NodeJS Backend integration for [CapacitorJS](https://capacitorjs.com/)
-- [ ] Universal WebApp _(PWA)_ Wrapper
 - [ ] Modern Web music player
 
 </br>
 <p align="left">
   <a href="https://github.com/hampoelz/Capacitor-NodeJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Capacitor-NodeJS" alt="hampoelz/Capacitor-NodeJS"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/hampoelz/PWA-Wrapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=PWA-Wrapper" alt="hampoelz/PWA-Wrapper"></a>
+  <a href="https://github.com/hampoelz/LaTeX-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=LaTeX-Template" alt="hampoelz/LaTeX-Template"></a>
 </p>
 <p align="left">
   <a href="https://github.com/hampoelz/Digi4School2Pdf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Digi4School2Pdf" alt="hampoelz/Digi4School2Pdf"></a>
@@ -50,8 +53,6 @@ _(are also my goals for 2022)_
 
 - ⚡ Electrical Engineering
 - ⚙️ Some C / C++ Skills
-- 🐍 Python
-- 💾 Databases
 
 ## 💼 Technical Skills
 
@@ -67,6 +68,7 @@ _(are also my goals for 2022)_
 [![SQLite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)](https://en.wikipedia.org/wiki/SQLite)
 [![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&color=000000)](https://en.wikipedia.org/wiki/Markdown)
 [![LaTeX](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&color=008080)](https://en.wikipedia.org/wiki/LaTeX)
+[![MQTT](https://img.shields.io/badge/Code-MQTT-informational?style=flat&logo=MQTT&color=660066)](https://en.wikipedia.org/wiki/MQTT)
 
 </br>
 
