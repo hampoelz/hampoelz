@@ -25,14 +25,15 @@ _➡️ If you have any question/feedback, please do not hesitate to reach out t
 ---
 
 ## 🔭 I'm currently working on
-_(are also my goals for 2022)_
+_(are also my goals for 2023)_
 - [ ] My new portfolio Website
 - [ ] My diploma thesis
   - [ ] NodeJS Backend integration for [CapacitorJS](https://capacitorjs.com/)
   - [ ] BrowserView integration for [CapacitorJS](https://capacitorjs.com/)
   - [ ] Universal WebApp _(PWA)_ Wrapper
 - [ ] The telemetry and visualization part for the [@htlweiz](https://github.com/htlweiz) [EMILY Cart](https://emily.htlweiz.at/)
-- [x] ~[Digi4School](https://digi4school.at/) eBook downloader~ _(DISCONTINUED - See Readme)_
+- [ ] Project for the Austrian Austrian Armed Forces _(more details will be available soon)_
+- [ ] LaTeX-Templates for the [@htlweiz](https://github.com/htlweiz) _([HTL_LaTeX-Template](https://github.com/hampoelz/HTL_LaTeX-Template), [HTL_Labor-Template](https://github.com/hampoelz/HTL_Labor-Template))_
 - [ ] Modern Web music player
 
 </br>
@@ -52,7 +53,7 @@ _(are also my goals for 2022)_
 ## 🌱 I'm currently learning
 
 - ⚡ Electrical Engineering
-- ⚙️ Some C / C++ Skills
+- ⚙️ Some C++ Skills
 
 ## 💼 Technical Skills
 
