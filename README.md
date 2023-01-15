@@ -34,6 +34,7 @@ _(are also my goals for 2023)_
 - [ ] The telemetry and visualization part for the [@htlweiz](https://github.com/htlweiz) [EMILY Cart](https://emily.htlweiz.at/)
 - [ ] Project for the Austrian Austrian Armed Forces _(more details will be available soon)_
 - [ ] LaTeX-Templates for the [@htlweiz](https://github.com/htlweiz) _([HTL_LaTeX-Template](https://github.com/hampoelz/HTL_LaTeX-Template), [HTL_Labor-Template](https://github.com/hampoelz/HTL_Labor-Template))_
+- [ ] Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client
 - [ ] Modern Web music player
 
 </br>
