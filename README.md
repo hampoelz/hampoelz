@@ -95,6 +95,11 @@ _(are also my goals for 2023)_
 [![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)](https://github.com/)
 [![Heroku](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)](https://www.heroku.com/)
 
+</br>
+
+[![Windows](https://img.shields.io/badge/System-Windows-informational?style=flat&logo=Windows&color=0078D6)]()
+[![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=Linux&color=FCC624)]()
+
 ---
 
 ## 📈 GitHub Stats 
