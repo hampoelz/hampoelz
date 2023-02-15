@@ -33,6 +33,7 @@ _(are also my goals for 2023)_
   - [ ] Universal WebApp _(PWA)_ Wrapper
 - [ ] The telemetry and visualization part for the [@htlweiz](https://github.com/htlweiz) [EMILY Cart](https://emily.htlweiz.at/)
 - [ ] Project for the Austrian Armed Forces _(more details will be available soon)_
+- [ ] LaTeX Template _for technical and scientific use_
 - [ ] LaTeX-Templates for the [@htlweiz](https://github.com/htlweiz) _([HTL_LaTeX-Template](https://github.com/hampoelz/HTL_LaTeX-Template), [HTL_Labor-Template](https://github.com/hampoelz/HTL_Labor-Template))_
 - [ ] Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client
 - [ ] Modern Web music player
