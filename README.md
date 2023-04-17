@@ -26,6 +26,7 @@ _➡️ If you have any question/feedback, please do not hesitate to reach out t
 
 ## 🔭 I'm currently working on
 _(are also my goals for 2023)_
+
 - [ ] My new portfolio Website
 - [ ] My diploma thesis
   - [ ] NodeJS Backend integration for [CapacitorJS](https://capacitorjs.com/)
@@ -37,6 +38,10 @@ _(are also my goals for 2023)_
 - [x] LaTeX-Templates for the [@htlweiz](https://github.com/htlweiz) _([HTL_LaTeX-Template](https://github.com/hampoelz/HTL_LaTeX-Template), [HTL_Labor-Template](https://github.com/hampoelz/HTL_Labor-Template))_
 - [ ] Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client
 - [ ] Modern Web music player
+
+---
+
+## 🚀 Highlights
 
 </br>
 <p align="left">
