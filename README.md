@@ -33,21 +33,21 @@ _(are also my goals for 2023)_
   - [ ] Universal WebApp _(PWA)_ Wrapper
 - [ ] The telemetry and visualization part for the [@htlweiz](https://github.com/htlweiz) [EMILY Cart](https://emily.htlweiz.at/)
 - [ ] Project for the Austrian Armed Forces _(more details will be available soon)_
-- [ ] LaTeX Template _for technical and scientific use_
-- [ ] LaTeX-Templates for the [@htlweiz](https://github.com/htlweiz) _([HTL_LaTeX-Template](https://github.com/hampoelz/HTL_LaTeX-Template), [HTL_Labor-Template](https://github.com/hampoelz/HTL_Labor-Template))_
+- [x] LaTeX Template _for technical and scientific use_
+- [x] LaTeX-Templates for the [@htlweiz](https://github.com/htlweiz) _([HTL_LaTeX-Template](https://github.com/hampoelz/HTL_LaTeX-Template), [HTL_Labor-Template](https://github.com/hampoelz/HTL_Labor-Template))_
 - [ ] Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client
 - [ ] Modern Web music player
 
 </br>
 <p align="left">
-  <a href="https://github.com/hampoelz/Capacitor-NodeJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Capacitor-NodeJS" alt="hampoelz/Capacitor-NodeJS"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/hampoelz/LaTeX-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=LaTeX-Template" alt="hampoelz/LaTeX-Template"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/hampoelz/Capacitor-NodeJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Capacitor-NodeJS" alt="hampoelz/Capacitor-NodeJS"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/hampoelz/Digi4School2Pdf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Digi4School2Pdf" alt="hampoelz/Digi4School2Pdf"></a>
+  <a href="https://github.com/hampoelz/LaTeX-Science-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=LaTeX-Science-Template" alt="hampoelz/LaTeX-Science-Template"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/hampoelz/Musicadio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Musicadio" alt="hampoelz/Musicadio"></a>
+  <a href="https://github.com/hampoelz/Digi4School2Pdf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Digi4School2Pdf" alt="hampoelz/Digi4School2Pdf"></a>
 </p>
 
 ---
