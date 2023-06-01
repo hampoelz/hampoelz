@@ -34,7 +34,7 @@ _(are also my goals for 2023)_
   - [ ] Universal WebApp _(PWA)_ Wrapper
 - [x] LaTeX Template _for technical and scientific use_ _([LaTeX-Science-Template](https://github.com/hampoelz/LaTeX-Science-Template/wiki))_
 - [x] LaTeX-Templates for the [@htlweiz](https://github.com/htlweiz) _([HTL_LaTeX-Template](https://github.com/hampoelz/HTL_LaTeX-Template/wiki), [HTL_Thesis-Template](https://github.com/hampoelz/HTL_Thesis-Template/wiki), [HTL_Labor-Template](https://github.com/hampoelz/HTL_Labor-Template/wiki))_
-- [ ] Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client
+- [ ] Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client _([#629](https://github.com/the-djmaze/snappymail/pull/629))_
 - [ ] Modern Web music player
 
 ---
