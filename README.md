@@ -39,22 +39,6 @@ _(are also my goals for 2023)_
 
 ---
 
-## 🚀 Highlights
-
-</br>
-<p align="left">
-  <a href="https://github.com/hampoelz/LaTeX-Template/wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=LaTeX-Template" alt="hampoelz/LaTeX-Template"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/hampoelz/Capacitor-NodeJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Capacitor-NodeJS" alt="hampoelz/Capacitor-NodeJS"></a>
-</p>
-<p align="left">
-  <a href="https://github.com/hampoelz/LaTeX-Science-Template/wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=LaTeX-Science-Template" alt="hampoelz/LaTeX-Science-Template"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/hampoelz/Digi4School2Pdf"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hampoelz&repo=Digi4School2Pdf" alt="hampoelz/Digi4School2Pdf"></a>
-</p>
-
----
-
 ## 🌱 I'm currently learning
 
 - ⚡ Electrical Engineering
