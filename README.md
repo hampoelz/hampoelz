@@ -37,8 +37,6 @@ _(are also my goals for 2023)_
 - [ ] Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client _([#629](https://github.com/the-djmaze/snappymail/pull/629))_
 - [ ] Modern Web music player
 
----
-
 ## 🌱 I'm currently learning
 
 - ⚡ Electrical Engineering
