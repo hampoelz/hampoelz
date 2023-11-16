@@ -78,7 +78,6 @@ _(are also my goals for 2023)_
 [![Inkscape](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=Inkscape&color=000000)](https://inkscape.org/)
 [![NPM](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)](https://www.npmjs.com/)
 [![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)](https://github.com/)
-[![Heroku](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)](https://www.heroku.com/)
 [![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)](https://www.docker.com/)
 [![B&R Automation](https://img.shields.io/badge/Tools-AutomationStudio-informational?style=flat&logo=BandRAutomation&color=FF8800)]()
 
