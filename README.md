@@ -12,7 +12,7 @@ Hi there, I'm <a href="https://hampoelz.net/" target="_blank" rel="noreferrer">R
 I'm a Student 🎒, Developer 💻, Engineer ⚙️, and Designer 🎨!
 </h2> 
 
-A `20 year old student` who uses his power to study computer science at the University of Technology Graz. Away from uni, friends and party I'm an Austrian based hobby **programmer & designer** with heart and soul since I'm 10 years old. Let's start `CREATING` some `NEW` and awesome open source things.
+A `20 year old student` who uses his power to study computer science at the University of Technology Graz. Away from uni, friends and gaming I'm an Austrian based hobby **programmer & designer** with heart and soul since I'm 10 years old. Let's start `CREATING` some `NEW` and awesome open source things.
 
 ### 🤝 Connect with me:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hampoelz)
