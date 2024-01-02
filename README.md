@@ -15,9 +15,10 @@ I'm a Student 🎒, Developer 💻, Engineer ⚙️, and Designer 🎨!
 A `20 year old student` who uses his power to study computer science at the University of Technology Graz. Away from uni, friends and party I'm an Austrian based hobby **programmer & designer** with heart and soul since I'm 10 years old. Let's start `CREATING` some `NEW` and awesome open source things.
 
 ### 🤝 Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hampoelz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rene_hampi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rene_hampi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hampoelz)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/347024172070862850)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rene_hampi)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:requests+github@hampoelz.net)
 </br>
 
 _➡️ If you have any question/feedback, please do not hesitate to reach out to me!_
@@ -25,16 +26,12 @@ _➡️ If you have any question/feedback, please do not hesitate to reach out t
 ---
 
 ## 🔭 I'm currently working on
-_(are also my goals for 2023)_
+_(are also my goals for 2024)_
 
 - [ ] My new portfolio Website
-- [x] My diploma thesis _([HTL_Diplomarbeit](https://github.com/hampoelz/HTL_Diplomarbeit))_
-  - [x] NodeJS Backend integration for Capacitor _([Capacitor-NodeJS](https://github.com/hampoelz/Capacitor-NodeJS))_
-  - [x] BrowserView integration for Capacitor _([Capacitor-BrowserView](https://github.com/hampoelz/Capacitor-BrowserView))_
-  - [x] Universal WebApp _(PWA)_ Wrapper _([WebApp-Wrapper](https://github.com/hampoelz/WebApp-Wrapper))_
-- [x] LaTeX Template _for technical and scientific use_ _([LaTeX-Science-Template](https://github.com/hampoelz/LaTeX-Science-Template/wiki))_
-- [x] LaTeX-Templates for the [@htlweiz](https://github.com/htlweiz) _([HTL_LaTeX-Template](https://github.com/hampoelz/HTL_LaTeX-Template/wiki), [HTL_Thesis-Template](https://github.com/hampoelz/HTL_Thesis-Template/wiki), [HTL_Labor-Template](https://github.com/hampoelz/HTL_Labor-Template/wiki))_
-- [x] Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client _([#629](https://github.com/the-djmaze/snappymail/pull/629))_
+- [ ] Universal WebApp _(PWA)_ Wrapper _([WebApp-Wrapper](https://github.com/hampoelz/WebApp-Wrapper))_
+- [ ] Tetris with a pixel cat style
+- [ ] C/C++ Web playground
 - [ ] Modern Web music player
 
 ## 🌱 I'm currently learning
@@ -42,10 +39,19 @@ _(are also my goals for 2023)_
 - 📐 Analysis and Numerical linear algebra
 - ⚙️ Some C and C++ Skills
 
+## ✨ Highlights
+
+- My diploma thesis _([HTL_Diplomarbeit](https://github.com/hampoelz/HTL_Diplomarbeit))_
+  - NodeJS Backend integration for Capacitor _([Capacitor-NodeJS](https://github.com/hampoelz/Capacitor-NodeJS))_
+  - BrowserView integration for Capacitor _([Capacitor-BrowserView](https://github.com/hampoelz/Capacitor-BrowserView))_
+- LaTeX Template _for technical and scientific use_ _([LaTeX-Science-Template](https://github.com/hampoelz/LaTeX-Science-Template/wiki))_
+- Nextcloud Theme for the [SnappyMail](https://github.com/the-djmaze/snappymail) webmail client _([#629](https://github.com/the-djmaze/snappymail/pull/629))_
+
 ## 💼 Technical Skills
 
+[![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=A8B9CC)]([https://en.wikipedia.org/wiki/C++](https://en.wikipedia.org/wiki/C_(programming_language)))
+[![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&color=00599C)](https://en.wikipedia.org/wiki/C++)
 [![CSharp](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&color=239120)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&color=00599C)](https://en.wikipedia.org/wiki/C++)
 [![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)](https://en.wikipedia.org/wiki/Java_(programming_language))
 [![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)](https://en.wikipedia.org/wiki/HTML5)
 [![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
