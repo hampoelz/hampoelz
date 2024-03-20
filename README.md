@@ -38,6 +38,7 @@ _(are also my goals for 2024)_
 
 - 📐 Analysis and Discrete mathematics
 - ⚙️ Some C and C++ Skills
+- 📘 Databases
 
 ## ✨ Highlights
 
