@@ -32,7 +32,6 @@ _(are also my goals for 2024)_
 - [ ] Universal WebApp _(PWA)_ Wrapper _([WebApp-Wrapper](https://github.com/hampoelz/WebApp-Wrapper))_
 - [ ] Online Tetris platform
 - [ ] C/C++ Web playground
-- [ ] Modern Web music player
 
 ## 🌱 I'm currently learning
 
