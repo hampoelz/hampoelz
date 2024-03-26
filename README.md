@@ -30,7 +30,7 @@ _(are also my goals for 2024)_
 
 - [ ] My new portfolio Website
 - [ ] Universal WebApp _(PWA)_ Wrapper _([WebApp-Wrapper](https://github.com/hampoelz/WebApp-Wrapper))_
-- [ ] Tetris in a pixel cats style
+- [ ] Online Tetris platform
 - [ ] C/C++ Web playground
 - [ ] Modern Web music player
 
