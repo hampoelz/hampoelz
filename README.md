@@ -36,7 +36,6 @@ _(are also my goals for 2024)_
 ## 🌱 I'm currently learning
 
 - 📐 Analysis and Discrete mathematics
-- ⚙️ Some C and C++ Skills
 - 📘 Data Management
 
 ## ✨ Highlights
