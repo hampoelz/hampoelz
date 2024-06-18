@@ -51,20 +51,18 @@ _(are also my goals for 2024)_
 [![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&color=00599C)](https://en.wikipedia.org/wiki/C++)
 [![CSharp](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&color=239120)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=007396)](https://en.wikipedia.org/wiki/Java_(programming_language))
-[![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)](https://en.wikipedia.org/wiki/HTML5)
 [![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)](https://en.wikipedia.org/wiki/TypeScript)
-[![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=339933)](https://en.wikipedia.org/wiki/Node.js)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=4479A1)](https://en.wikipedia.org/wiki/MySQL)
 [![SQLite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)](https://en.wikipedia.org/wiki/SQLite)
 [![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&color=000000)](https://en.wikipedia.org/wiki/Markdown)
 [![LaTeX](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&color=008080)](https://en.wikipedia.org/wiki/LaTeX)
-[![MQTT](https://img.shields.io/badge/Code-MQTT-informational?style=flat&logo=MQTT&color=660066)](https://en.wikipedia.org/wiki/MQTT)
 
 </br>
 
 [![XAML](https://img.shields.io/badge/Style-XAML-informational?style=flat&logo=XAML&color=0C54C2)](https://de.wikipedia.org/wiki/Extensible_Application_Markup_Language)
+[![HTML5](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&color=E34F26)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 </br>
