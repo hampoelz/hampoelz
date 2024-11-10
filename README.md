@@ -16,8 +16,8 @@ A `20 year old student` who uses his power to study computer science at the Univ
 
 ### 🤝 Connect with me:
 [![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOS4zODEiIGhlaWdodD0iOS42MzkiIHZpZXdCb3g9IjAgMCAyLjQ4MiAyLjU1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHhtbDpzcGFjZT0icHJlc2VydmUiIHN0eWxlPSJmb250LXNpemU6My4xNzVweDtmaWxsOiMwMDA7c3Ryb2tlLXdpZHRoOi4yNjQ1ODMiIHg9IjkxLjg2NyIgeT0iMTEwLjEyNyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTkyLjA1IC0xMDcuODYzKSI+PHRzcGFuIHN0eWxlPSJmb250LXN0eWxlOm5vcm1hbDtmb250LXZhcmlhbnQ6bm9ybWFsO2ZvbnQtd2VpZ2h0OjQwMDtmb250LXN0cmV0Y2g6bm9ybWFsO2ZvbnQtZmFtaWx5OidPcGVuIFNhbnMnOy1pbmtzY2FwZS1mb250LXNwZWNpZmljYXRpb246J09wZW4gU2Fucyc7ZmlsbDojZmZmO2ZpbGwtb3BhY2l0eToxO3N0cm9rZS13aWR0aDouMjY0NTgzIiB4PSI5MS44NjciIHk9IjExMC4xMjciPkA8L3RzcGFuPjwvdGV4dD48L3N2Zz4=)](https://hampi.at/requests/github)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord://user?id=347024172070862850)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rene_hampi)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://hampi.at/discord)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://hampi.at/instagram)
 </br>
 
 _➡️ If you have any question/feedback, please do not hesitate to reach out to me!_
