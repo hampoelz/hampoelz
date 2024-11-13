@@ -61,21 +61,15 @@ _(are also my goals for 2024)_
 [![Markdown](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&color=000000)](https://en.wikipedia.org/wiki/Markdown)
 [![LaTeX](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&color=008080)](https://en.wikipedia.org/wiki/LaTeX)
 
-</br>
-
 [![XAML](https://img.shields.io/badge/Style-XAML-informational?style=flat&logo=XAML&color=0C54C2)](https://de.wikipedia.org/wiki/Extensible_Application_Markup_Language)
 [![HTML5](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&color=E34F26)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)](https://de.wikipedia.org/wiki/Cascading_Style_Sheets)
-
-</br>
 
 [![.NET](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.NET&color=512BD4)](https://dotnet.microsoft.com/en-us/)
 [![Electron](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=Electron&color=47848F)](https://www.electronjs.org/)
 [![Capacitor](https://img.shields.io/badge/Framework-Capacitor-informational?style=flat&logo=Capacitor&color=119EFF)](https://capacitorjs.com/)
 [![Arduino](https://img.shields.io/badge/Framework-Arduino-informational?style=flat&logo=Arduino&color=00979D)](https://www.arduino.cc/)
 [![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)](https://getbootstrap.com/)
-
-</br>
 
 [![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=VisualStudioCode&color=007ACC)](https://code.visualstudio.com/)
 [![Gimp](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=GIMP&color=5C5543)](https://www.gimp.org/)
@@ -85,10 +79,9 @@ _(are also my goals for 2024)_
 [![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)](https://www.docker.com/)
 [![B&R Automation](https://img.shields.io/badge/Tools-AutomationStudio-informational?style=flat&logo=BandRAutomation&color=FF8800)]()
 
-</br>
-
 [![Windows](https://img.shields.io/badge/System-Windows-informational?style=flat&logo=Windows&color=0078D6)]()
 [![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=Linux&color=FCC624)]()
+[![MacOS](https://img.shields.io/badge/System-MacOS-informational?style=flat&logo=Apple&color=000000)]()
 
 ---
 
