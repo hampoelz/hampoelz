@@ -25,19 +25,21 @@ _➡️ If you have any question/feedback, please do not hesitate to reach out t
 ---
 
 ## 🔭 I'm currently working on
-_(are also my goals for 2024)_
+_(are also my goals for 2025)_
 
-- [ ] My new portfolio Website
-- [ ] Universal WebApp _(PWA)_ Wrapper _([WebApp-Wrapper](https://github.com/hampoelz/WebApp-Wrapper))_
 - [ ] Online Tetris platform
+- [ ] [Capacitor-NodeJS](https://github.com/hampoelz/Capacitor-NodeJS)
+- [ ] [Portfolio Website](https://hampoelz.net)
+- [ ] Universal WebApp _(PWA)_ Wrapper _([WebApp-Wrapper](https://github.com/hampoelz/WebApp-Wrapper))_
+
 - [ ] C/C++ Web playground
 
 ## 🌱 I'm currently learning
 
-- Data Structures und Algorithms
-- System Level Programming
-- Computer Organization and Networks
-- Logic and Computability
+- Operating Systems
+- Human-Computer Interaction
+- Computer Vision
+- Computational Geometry
 
 ## ✨ Highlights
 
