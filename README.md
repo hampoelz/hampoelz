@@ -31,7 +31,6 @@ _(are also my goals for 2025)_
 - [ ] [Capacitor-NodeJS](https://github.com/hampoelz/Capacitor-NodeJS)
 - [ ] [Portfolio Website](https://hampoelz.net)
 - [ ] Universal WebApp _(PWA)_ Wrapper _([WebApp-Wrapper](https://github.com/hampoelz/WebApp-Wrapper))_
-
 - [ ] C/C++ Web playground
 
 ## 🌱 I'm currently learning
