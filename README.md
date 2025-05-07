@@ -37,7 +37,7 @@ _(are also my goals for 2025)_
 
 - Operating Systems
 - Human-Computer Interaction
-- Computer Vision
+- Computer Graphics
 - Computational Geometry
 
 ## ✨ Highlights
